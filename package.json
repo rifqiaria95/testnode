@@ -1,0 +1,21 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testnode"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Rifqi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
